@@ -336,7 +336,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    webapp: "https://inspiring-cascaron-815903.netlify.app/",
   },
   {
     id: 0,
